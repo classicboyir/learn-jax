@@ -1,1 +1,3 @@
-jax[tpu]==0.4.20
+jax[tpu]
+jupyter
+matplotlib
