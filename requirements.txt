@@ -1,3 +1,6 @@
 jax[tpu]
 jupyter
 matplotlib
+matplotlib
+tensorflow
+tensorboard-plugin-profile
