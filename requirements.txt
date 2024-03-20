@@ -4,3 +4,5 @@ matplotlib
 matplotlib
 tensorflow
 tensorboard-plugin-profile
+torch
+torchvision
